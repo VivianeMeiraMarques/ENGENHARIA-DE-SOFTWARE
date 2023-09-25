@@ -1,3 +1,2 @@
 # ENGENHARIA-DE-SOFTWARE
-Repositório para projeto de Engenharia de Software
-Grupo - 6
+Repositório para projeto de Engenharia de Software | Grupo - 6
