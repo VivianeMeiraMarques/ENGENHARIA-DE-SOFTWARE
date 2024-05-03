@@ -1,2 +1,2 @@
-# ENGENHARIA-DE-SOFTWARE
-Repositório para projeto de Engenharia de Software | Grupo - 6
+# ENGENHARIA-DE-REQUISITOS
+Repositório para projeto de Engenharia de Requisitos | Grupo - 6
